@@ -1,8 +1,8 @@
-# ece-webtech-501
+# Lien du site : ece-webtech-501.vercel.app
 # Blog de Jeux-Vidéos - ECE Webtech Project
 
 ## Introduction
-Ce projet regroupe les travaux réalisés pour le cours ece-webtech-501. Il a été principalement contribué par Jaishan BURTON ELMO, Mathys BAGNAH, et Marc-Antoine GRABEY. Le projet contient une application Next.js dans le dossier `client`.
+Ce projet regroupe les travaux réalisés pour le cours ece-webtech-501. Il a été principalement contribué par Mathys BAGNAH et Jaishan BURTON ELMO. Le projet contient une application Next.js dans le dossier `client`.
 
 ### Structure du projet
 
